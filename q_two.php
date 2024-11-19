@@ -12,5 +12,4 @@ function media(int $n1, int $n2, int $n3){
 media(10, 9, 8);
 echo "</br>";
 media(5, 4, 6);
-echo "</br>";
 echo "</br></br></br>";
